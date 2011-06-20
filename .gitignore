@@ -4,3 +4,5 @@
 *.un~
 *.db
 static_root/
+.project
+.pydevproject
